@@ -2,6 +2,20 @@
 
 Moshify is a modern, responsive website template for a cloud hosting service. This project showcases a professional design with various sections highlighting the features and benefits of the hosting service.
 
+## Live Demo
+
+Moshify is now live and accessible at:
+
+[https://moshify-chi.vercel.app/](https://moshify-chi.vercel.app/)
+
+This live deployment demonstrates the full capabilities of the Moshify template. Visitors can explore the sleek, responsive design that adapts seamlessly to different screen sizes. The site showcases various sections including:
+
+- An eye-catching hero section with a call-to-action
+- Feature highlights with engaging icons and descriptions
+- Pricing plans presented in an easy-to-compare format
+- Testimonials to build trust with potential customers
+- A domain search functionality (for demonstration purposes)
+
 ## Features
 
 - Responsive design that works on desktop and mobile
@@ -16,7 +30,6 @@ Moshify is a modern, responsive website template for a cloud hosting service. Th
 - HTML5
 - CSS3
 - JavaScript
-- [AOS (Animate On Scroll) library](https://michalsnik.github.io/aos/)
 
 ## Structure
 
